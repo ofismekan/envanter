@@ -1,0 +1,44 @@
+{
+  "urun_maliyetleri": {
+    "ÇAY": {
+      "birim_maliyet": 12.50,
+      "birim": "paket",
+      "aciklama": "Çay Paketi"
+    },
+    "TÜRK KAHVESİ": {
+      "birim_maliyet": 45.00,
+      "birim": "kg",
+      "aciklama": "Türk Kahvesi"
+    },
+    "FİLTRE KAHVE": {
+      "birim_maliyet": 85.00,
+      "birim": "kg",
+      "aciklama": "Filtre Kahve"
+    },
+    "ŞEKER": {
+      "birim_maliyet": 8.00,
+      "birim": "kg",
+      "aciklama": "Şeker"
+    }
+  },
+  "kritik_seviyeler": {
+    "TOPLANTI 1": {
+      "ÇAY": 5,
+      "TÜRK KAHVESİ": 3,
+      "FİLTRE KAHVE": 3,
+      "ŞEKER": 10
+    },
+    "TOPLANTI 2": {
+      "ÇAY": 5,
+      "TÜRK KAHVESİ": 3,
+      "FİLTRE KAHVE": 3,
+      "ŞEKER": 10
+    },
+    "TOPLANTI 3": {
+      "ÇAY": 5,
+      "TÜRK KAHVESİ": 3,
+      "FİLTRE KAHVE": 3,
+      "ŞEKER": 10
+    }
+  }
+}

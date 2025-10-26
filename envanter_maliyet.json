@@ -1,0 +1,102 @@
+{
+  "urun_maliyetleri": {
+    "A001": {
+      "birim_maliyet": 15.50,
+      "birim": "adet",
+      "aciklama": "Ürün A001"
+    },
+    "A002": {
+      "birim_maliyet": 22.75,
+      "birim": "adet",
+      "aciklama": "Ürün A002"
+    },
+    "B010": {
+      "birim_maliyet": 5.90,
+      "birim": "adet",
+      "aciklama": "Ürün B010"
+    },
+    "C105": {
+      "birim_maliyet": 120.00,
+      "birim": "adet",
+      "aciklama": "Ürün C105"
+    },
+    "D200": {
+      "birim_maliyet": 45.00,
+      "birim": "adet",
+      "aciklama": "Ürün D200"
+    },
+    "E330": {
+      "birim_maliyet": 8.25,
+      "birim": "adet",
+      "aciklama": "Ürün E330"
+    },
+    "F401": {
+      "birim_maliyet": 30.50,
+      "birim": "adet",
+      "aciklama": "Ürün F401"
+    },
+    "G505": {
+      "birim_maliyet": 98.00,
+      "birim": "adet",
+      "aciklama": "Ürün G505"
+    },
+    "H600": {
+      "birim_maliyet": 7.00,
+      "birim": "adet",
+      "aciklama": "Ürün H600"
+    },
+    "I707": {
+      "birim_maliyet": 150.00,
+      "birim": "adet",
+      "aciklama": "Ürün I707"
+    },
+    "J808": {
+      "birim_maliyet": 18.00,
+      "birim": "adet",
+      "aciklama": "Ürün J808"
+    },
+    "K999": {
+      "birim_maliyet": 25.00,
+      "birim": "adet",
+      "aciklama": "Ürün K999"
+    },
+    "L101": {
+      "birim_maliyet": 55.00,
+      "birim": "adet",
+      "aciklama": "Ürün L101"
+    },
+    "M202": {
+      "birim_maliyet": 12.00,
+      "birim": "adet",
+      "aciklama": "Ürün M202"
+    },
+    "N303": {
+      "birim_maliyet": 88.00,
+      "birim": "adet",
+      "aciklama": "Ürün N303"
+    },
+    "O404": {
+      "birim_maliyet": 65.00,
+      "birim": "adet",
+      "aciklama": "Ürün O404"
+    }
+  },
+  "kritik_seviyeler": {
+    "A001": 10,
+    "A002": 10,
+    "B010": 15,
+    "C105": 5,
+    "D200": 8,
+    "E330": 20,
+    "F401": 10,
+    "G505": 5,
+    "H600": 25,
+    "I707": 3,
+    "J808": 12,
+    "K999": 10,
+    "L101": 7,
+    "M202": 15,
+    "N303": 6,
+    "O404": 8
+  }
+}

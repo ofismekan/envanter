@@ -1,0 +1,464 @@
+{
+  "envanter_genel": {
+    "BTTAB-0001": {
+      "açıklama": "Samsung Galaxy Tab S9",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "BTTEL-0001": {
+      "açıklama": "Samsung Galaxy M34 5G 128/6 GB",
+      "depo": "QUASAR",
+      "bakiye": 3
+    },
+    "CKHV-0002": {
+      "açıklama": "KD ESPRESSO KAHVE ÇEKİRDEĞİ 1 KG",
+      "depo": "QUASAR",
+      "bakiye": 138
+    },
+    "CKHV-0003": {
+      "açıklama": "KD FİLTRE KAHVE PAKET 250G",
+      "depo": "QUASAR",
+      "bakiye": 796
+    },
+    "CSRF-0003": {
+      "açıklama": "KARTON BARDAK 4 OZ",
+      "depo": "QUASAR",
+      "bakiye": 13
+    },
+    "DE-0208": {
+      "açıklama": "'Bravilor Bonamat 110/360' filtre kağıdı",
+      "depo": "QUASAR",
+      "bakiye": 100
+    },
+    "DE-0212": {
+      "açıklama": "IHLAMUR SALLAMA ÇAY",
+      "depo": "QUASAR",
+      "bakiye": 100
+    },
+    "DE-0213": {
+      "açıklama": "ADA ÇAYI SALLAMA ÇAY",
+      "depo": "QUASAR",
+      "bakiye": 83
+    },
+    "DE-0214": {
+      "açıklama": "YEŞİL ÇAY SALLAMA ÇAY",
+      "depo": "QUASAR",
+      "bakiye": 100
+    },
+    "DE-0215": {
+      "açıklama": "KUŞBURNU SALLAMA ÇAY",
+      "depo": "QUASAR",
+      "bakiye": 100
+    },
+    "DE-0216": {
+      "açıklama": "NANE LİMON SALLAMA ÇAY",
+      "depo": "QUASAR",
+      "bakiye": 103
+    },
+    "DE-0227": {
+      "açıklama": "DIŞ MEKAN AHŞAP KÜLLÜKLÜ ÇÖP KOVASI",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "DE-0229": {
+      "açıklama": "Paşabahçe Elysia Kristal Çay Bardağı 12 li Çay Bardak set",
+      "depo": "QUASAR",
+      "bakiye": 2
+    },
+    "DE-0232": {
+      "açıklama": "25x40 cm 4mm antrasit renkli kompozit plaka",
+      "depo": "QUASAR",
+      "bakiye": 46
+    },
+    "DE-0233": {
+      "açıklama": "SAKLAMA KABI 20 LT",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "DE-0234": {
+      "açıklama": "DEMİR KÜLLÜK",
+      "depo": "QUASAR",
+      "bakiye": 10
+    },
+    "DE-0236": {
+      "açıklama": "RAL 7624 MAT BOYALI AHŞAP KÜRSÜ",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "DE-0237": {
+      "açıklama": "BANK",
+      "depo": "QUASAR",
+      "bakiye": 4
+    },
+    "DE-0238": {
+      "açıklama": "Bistro Masa",
+      "depo": "QUASAR",
+      "bakiye": 8
+    },
+    "DE-0242": {
+      "açıklama": "Revir Seti 4’lü(Sedye, Sedye Basamağı, Serum Askısı, Paravan)",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "DE-0245": {
+      "açıklama": "SETA Manuel Sıvı Sabunluk, Sıvaüstü A605 Paslanmaz Çelik",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "DE-0250": {
+      "açıklama": "Kuru Kahveci Mehmet Efendi-500 gr Metal Kutulu Türk Kahvesi",
+      "depo": "QUASAR",
+      "bakiye": 216
+    },
+    "DEADA-0004": {
+      "açıklama": "Omron M3 comfort dijital tansiyon aleti",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "DESAP-0001": {
+      "açıklama": "kumaş şapka",
+      "depo": "QUASAR",
+      "bakiye": 100
+    },
+    "DMMASA0105": {
+      "açıklama": "QUASAR,MASA,SABIT,DORTGEN,110X70",
+      "depo": "QUASAR",
+      "bakiye": 96
+    },
+    "KA4": {
+      "açıklama": "A4",
+      "depo": "QUASAR",
+      "bakiye": 35
+    },
+    "KRT-0001": {
+      "açıklama": "Tükenmez Kalem Siyah gövdeli, tek taraf logo baskılı.",
+      "depo": "QUASAR",
+      "bakiye": 260
+    },
+    "KRT-0002": {
+      "açıklama": "Kurşun Kalem Yuvarlak siyah latalı, tek taraf logo baskılı.",
+      "depo": "QUASAR",
+      "bakiye": 723
+    },
+    "KRT-0004": {
+      "açıklama": "Ebat: 13 cm x 21 cm Sayfa İç: Çizgili Sayfa Sayısı: 192 Sayfa Kağıt: Ivory (Krem) Kağıt Gramajı: 70 gr. Kapak: Thermo PU Sert Kapak",
+      "depo": "QUASAR",
+      "bakiye": 367
+    },
+    "KRT-0005": {
+      "açıklama": "Bloknot A5 boyutunda, 15 sayfa, logo baskılı.",
+      "depo": "QUASAR",
+      "bakiye": 797
+    },
+    "KRT-0006": {
+      "açıklama": "Porselen Kupa Cenevre Bonna model, tek taraf logo baskılı",
+      "depo": "QUASAR",
+      "bakiye": 15
+    },
+    "MUKHM-0002": {
+      "açıklama": "ARÇELİK K3700 TELVE PRO TÜRK KAHVE MAKİNESİ",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "OBEZ-12": {
+      "açıklama": "BULAŞIK SÜNGERİ ( MAVİ )",
+      "depo": "QUASAR",
+      "bakiye": 46
+    },
+    "OBEZ-13": {
+      "açıklama": "BULAŞIK SÜNGERİ (YEŞİL)",
+      "depo": "QUASAR",
+      "bakiye": 2
+    },
+    "OBEZ-14": {
+      "açıklama": "BULAŞIK ELDİVENİ",
+      "depo": "QUASAR",
+      "bakiye": 8
+    },
+    "OBEZ-17": {
+      "açıklama": "MİCROFİBER BEZ MAVİ (MASA BEZİ)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OBEZ-4": {
+      "açıklama": "MİCROFİBEZ BEZ EKONOMİK - YEŞİL",
+      "depo": "QUASAR",
+      "bakiye": 30
+    },
+    "OBEZ-5": {
+      "açıklama": "MİCROFİBEZ BEZ EKONOMİK - KIRMIZI",
+      "depo": "QUASAR",
+      "bakiye": 8
+    },
+    "OBEZ-6": {
+      "açıklama": "MİCROFİBEZ BEZ EKONOMİK - SARI",
+      "depo": "QUASAR",
+      "bakiye": 8
+    },
+    "OBEZ-9": {
+      "açıklama": "MİCROFİBER BEZ EKONOMİK- TURUNCU",
+      "depo": "QUASAR",
+      "bakiye": 7
+    },
+    "OCAY-1": {
+      "açıklama": "ÇAY 1 Kg.",
+      "depo": "QUASAR",
+      "bakiye": 400
+    },
+    "OCAY-3": {
+      "açıklama": "ŞEKER TEK SARGILI (5 kg.)",
+      "depo": "QUASAR",
+      "bakiye": 157
+    },
+    "OCAY-4": {
+      "açıklama": "BARDAK (KARTON) 7 Oz / 180cc /72.2/80.4/50mm 190gr+18gr/m²",
+      "depo": "QUASAR",
+      "bakiye": 48
+    },
+    "OCAY-5": {
+      "açıklama": "AHŞAP KARIŞTIRICI - 11 cm.",
+      "depo": "QUASAR",
+      "bakiye": 35
+    },
+    "OCOP-14": {
+      "açıklama": "65X80 RENKLİ ÇÖP POŞETİ (60 micron) - GRİ",
+      "depo": "QUASAR",
+      "bakiye": 140
+    },
+    "OCOP-16": {
+      "açıklama": "65X80 RENKLİ ÇÖP POŞETİ (60 micron) - KAHVERENGİ",
+      "depo": "QUASAR",
+      "bakiye": 380
+    },
+    "OCOP-19": {
+      "açıklama": "65X80 RENKLİ ÇÖP POŞETİ (60 micron) - KIRMIZI",
+      "depo": "QUASAR",
+      "bakiye": 50
+    },
+    "OCOP-3": {
+      "açıklama": "ÇÖP POŞETİ (55 X 60 SİYAH)",
+      "depo": "QUASAR",
+      "bakiye": 3
+    },
+    "OCOP-5": {
+      "açıklama": "ÇÖP POŞETİ (65 X 80 SİYAH)",
+      "depo": "QUASAR",
+      "bakiye": 7
+    },
+    "OCOP-8": {
+      "açıklama": "ÇÖP POŞETİ (80 X 110 MAVİ)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OKAG-2": {
+      "açıklama": "KLOZET KAPAK ÖRTÜSÜ (10' lu)",
+      "depo": "QUASAR",
+      "bakiye": 47
+    },
+    "OKAG-3": {
+      "açıklama": "HAVLU PEÇETE (12' li)",
+      "depo": "QUASAR",
+      "bakiye": 91
+    },
+    "OKAG-5": {
+      "açıklama": "TUVALET KAĞIDI (72'li)",
+      "depo": "QUASAR",
+      "bakiye": 96
+    },
+    "OKIM-101": {
+      "açıklama": "ENDÜSTRİYEL TİP BULAŞIK MAKİNASI DETERJANI",
+      "depo": "QUASAR",
+      "bakiye": 41
+    },
+    "OKIM-102": {
+      "açıklama": "ENDÜSTRİYEL TİP BULAŞIK MAKİNASI PARLATICISI",
+      "depo": "QUASAR",
+      "bakiye": 41
+    },
+    "OKIM-105": {
+      "açıklama": "SIVI BULAŞIK YIKAMA DETERJANI (ELDE)",
+      "depo": "QUASAR",
+      "bakiye": 60
+    },
+    "OKIM-11": {
+      "açıklama": "KİREÇ ÇÖZÜCÜ (LAVABO VE ARMATÜR TEMİZLİĞİ)",
+      "depo": "QUASAR",
+      "bakiye": 116
+    },
+    "OKIM-20": {
+      "açıklama": "HALI YIKAMA ŞAMPUANI (KÖPÜĞÜ AYARLI)",
+      "depo": "QUASAR",
+      "bakiye": 20
+    },
+    "OKIM-25": {
+      "açıklama": "HALI LEKE SÖKÜCÜ (SU BAZLI)",
+      "depo": "QUASAR",
+      "bakiye": 11
+    },
+    "OKIM-5": {
+      "açıklama": "JOHNSON GLADE MULTİ ODA PARFÜMÜ (500 ml.)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OKIM-73": {
+      "açıklama": "ÇAMAŞIR SUYU (YOĞUN KIVAMLI)",
+      "depo": "QUASAR",
+      "bakiye": 15
+    },
+    "OKIM-74": {
+      "açıklama": "ÇAMAŞIR YIKAMA DETERJANI (TOZ MATİK)",
+      "depo": "QUASAR",
+      "bakiye": 16
+    },
+    "OKIM-8": {
+      "açıklama": "MİNERALLİ SIVI OVMA ÜRÜNÜ",
+      "depo": "QUASAR",
+      "bakiye": 2
+    },
+    "OKIM-9": {
+      "açıklama": "TUVALET VE BANYO TEMİZLEYİCİ",
+      "depo": "QUASAR",
+      "bakiye": 154
+    },
+    "OSARF-0005": {
+      "açıklama": "A4 21X30 Açılır Kapanır Rondo Çerçeve",
+      "depo": "QUASAR",
+      "bakiye": 12
+    },
+    "OSARF-1": {
+      "açıklama": "TRİGGER SPRAY CLASSİC",
+      "depo": "QUASAR",
+      "bakiye": 12
+    },
+    "OSARF-106": {
+      "açıklama": "TOZ TORBASI (KARCHER)",
+      "depo": "QUASAR",
+      "bakiye": 141
+    },
+    "OSARF-11": {
+      "açıklama": "PAD KIRMIZI (43 CM.)",
+      "depo": "QUASAR",
+      "bakiye": 7
+    },
+    "OSARF-2": {
+      "açıklama": "BOTTLE 24'LÜK (500 ML.)",
+      "depo": "QUASAR",
+      "bakiye": 16
+    },
+    "OSARF-231": {
+      "açıklama": "AHŞAP SAP",
+      "depo": "QUASAR",
+      "bakiye": 2
+    },
+    "OSARF-44": {
+      "açıklama": "MOP APARATI (60 CM TEL)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OSARF-48": {
+      "açıklama": "CAM PELUŞU (45 cm.)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OSARF-52": {
+      "açıklama": "CAM KOVASI",
+      "depo": "QUASAR",
+      "bakiye": 2
+    },
+    "OSARF-54": {
+      "açıklama": "TUVALET FIRÇASI",
+      "depo": "QUASAR",
+      "bakiye": 10
+    },
+    "OSARF-57": {
+      "açıklama": "YER ÇEK PLASTİK 55cm.",
+      "depo": "QUASAR",
+      "bakiye": 3
+    },
+    "OSARF-60": {
+      "açıklama": "MUAYENE ELDİVENİ BEDEN L",
+      "depo": "QUASAR",
+      "bakiye": 73
+    },
+    "OSARF-64": {
+      "açıklama": "FARAŞLI SÜPÜRGE TAKIMI",
+      "depo": "QUASAR",
+      "bakiye": 4
+    },
+    "OSARF-66": {
+      "açıklama": "OTO FIRÇASI",
+      "depo": "QUASAR",
+      "bakiye": 2
+    },
+    "OSARF-68": {
+      "açıklama": "ALÜMİNYUM SAP (DELİKLİ)",
+      "depo": "QUASAR",
+      "bakiye": 4
+    },
+    "OSARF-69": {
+      "açıklama": "ULTRASPEED MOP (40 cm.)",
+      "depo": "QUASAR",
+      "bakiye": 12
+    },
+    "OSARF-71": {
+      "açıklama": "PİSUVAR SÜZGECİ",
+      "depo": "QUASAR",
+      "bakiye": 47
+    },
+    "OSARF-78": {
+      "açıklama": "MAŞRAPA",
+      "depo": "QUASAR",
+      "bakiye": 1
+    },
+    "OSARF-79": {
+      "açıklama": "SU KOVASI PLASTİK",
+      "depo": "QUASAR",
+      "bakiye": 8
+    },
+    "OSARF-8": {
+      "açıklama": "PAD KAHVERENGİ (43 CM.)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OSARF-83": {
+      "açıklama": "YER KAZIMA APARATI",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "OSARF-85": {
+      "açıklama": "CAM LASTİĞİ (92 cm.)",
+      "depo": "QUASAR",
+      "bakiye": 19
+    },
+    "OSARF-91": {
+      "açıklama": "SİHİRLİ SÜNGER",
+      "depo": "QUASAR",
+      "bakiye": 12
+    },
+    "OSARF-92": {
+      "açıklama": "LAVABO FIRÇASI",
+      "depo": "QUASAR",
+      "bakiye": 9
+    },
+    "OSARF-93": {
+      "açıklama": "MAVİ MOP (60 cm)",
+      "depo": "QUASAR",
+      "bakiye": 6
+    },
+    "OSARF-94": {
+      "açıklama": "BEYAZ MOP (60 cm)",
+      "depo": "QUASAR",
+      "bakiye": 10
+    },
+    "OSARF-98": {
+      "açıklama": "ULTRASPEED MOP GERECİ (40 cm.)",
+      "depo": "QUASAR",
+      "bakiye": 5
+    },
+    "PD-A308": {
+      "açıklama": "A3 STAND",
+      "depo": "QUASAR",
+      "bakiye": 12
+    }
+  }
+}

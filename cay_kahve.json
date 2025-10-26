@@ -1,0 +1,856 @@
+{
+  "BAR ALANI": [
+    {
+      "ÇAY Miktarı": "4 Kilo",
+      "ÇAY Tarih": "05/07/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/07/2025",
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "05/08/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/16/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "05/21/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/13/2025",
+      "FİLTRE KAHVE Miktarı": "6 Paket",
+      "FİLTRE KAHVE Tarih": "05/09/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/30/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "05/28/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/16/2025",
+      "FİLTRE KAHVE Miktarı": "6 Paket",
+      "FİLTRE KAHVE Tarih": "05/13/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "07/22/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "06/14/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/20/2025",
+      "FİLTRE KAHVE Miktarı": "8 Paket",
+      "FİLTRE KAHVE Tarih": "05/15/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "10/10/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "06/25/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/27/2025",
+      "FİLTRE KAHVE Miktarı": "6 Paket",
+      "FİLTRE KAHVE Tarih": "05/21/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "06/27/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/04/2025",
+      "FİLTRE KAHVE Miktarı": "6 Paket",
+      "FİLTRE KAHVE Tarih": "05/26/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "4 Kilo",
+      "ÇAY Tarih": "07/21/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/14/2025",
+      "FİLTRE KAHVE Miktarı": "8 Paket",
+      "FİLTRE KAHVE Tarih": "05/28/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "4 kilo",
+      "ÇAY Tarih": "07/24/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/20/2025",
+      "FİLTRE KAHVE Miktarı": "4 Paket",
+      "FİLTRE KAHVE Tarih": "05/30/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "4 Kilo",
+      "ÇAY Tarih": "08/01/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/27/2025",
+      "FİLTRE KAHVE Miktarı": "6 Paket",
+      "FİLTRE KAHVE Tarih": "06/03/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "7 Kilo",
+      "ÇAY Tarih": "08/08/2025",
+      "TÜRK KAHVESİ Miktarı": "4 kutu",
+      "TÜRK KAHVESİ Tarih": "07/22/2025",
+      "FİLTRE KAHVE Miktarı": "6 Paket",
+      "FİLTRE KAHVE Tarih": "06/10/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "5 kilo",
+      "ÇAY Tarih": "08/20/2025",
+      "TÜRK KAHVESİ Miktarı": "4 kutu",
+      "TÜRK KAHVESİ Tarih": "08/08/2025",
+      "FİLTRE KAHVE Miktarı": "8 Paket",
+      "FİLTRE KAHVE Tarih": "06/14/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "5 kilo",
+      "ÇAY Tarih": "09/08/2025",
+      "TÜRK KAHVESİ Miktarı": "4 kutu",
+      "TÜRK KAHVESİ Tarih": "08/20/2025",
+      "FİLTRE KAHVE Miktarı": "9 Paket",
+      "FİLTRE KAHVE Tarih": "06/17/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "09/12/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/08/2025",
+      "FİLTRE KAHVE Miktarı": "13 Paket",
+      "FİLTRE KAHVE Tarih": "06/20/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "7 Kilo",
+      "ÇAY Tarih": "09/19/2025",
+      "TÜRK KAHVESİ Miktarı": "4 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/19/2025",
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "06/24/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "6 kilo",
+      "ÇAY Tarih": "29-Sep",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/24/2025",
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "06/27/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "5 kilo",
+      "ÇAY Tarih": "10/03/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/29/2025",
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "06/30/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "7 Kilo",
+      "ÇAY Tarih": "10/10/2025",
+      "TÜRK KAHVESİ Miktarı": "6 kutu",
+      "TÜRK KAHVESİ Tarih": "10/01/2025",
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "07/22/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "5 kilo",
+      "ÇAY Tarih": "10/17/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "10/13/2025",
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "08/05/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "4 kutu",
+      "TÜRK KAHVESİ Tarih": "10/17/2025",
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "08/08/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "10 paket",
+      "FİLTRE KAHVE Tarih": "08/20/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "09/12/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "10 Paket",
+      "FİLTRE KAHVE Tarih": "09/24/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "1 paket",
+      "FİLTRE KAHVE Tarih": "09/25/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "10 paket",
+      "FİLTRE KAHVE Tarih": "10/07/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ],
+  "CO-SPACE2": [
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "05/07/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/07/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/09/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/16/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "05/28/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/21/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/14/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "06/25/2025"
+    },
+    {
+      "ÇAY Miktarı": "1 Kilo",
+      "ÇAY Tarih": "09/19/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/18/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/16/2025",
+      "ŞEKER Miktarı": "1 paket",
+      "ŞEKER Tarih": "10/08/2025"
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "1 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/20/2025",
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "05/20/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "2 kutu",
+      "TÜRK KAHVESİ Tarih": "08/01/2025",
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "05/28/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/08/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/30/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/19/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "06/03/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "10/13/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "06/10/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "06/17/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "4 Paket",
+      "FİLTRE KAHVE Tarih": "06/22/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "06/30/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "08/05/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "08/08/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 paket",
+      "FİLTRE KAHVE Tarih": "08/20/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "7 Paket",
+      "FİLTRE KAHVE Tarih": "09/11/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "09/30/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "10 paket",
+      "FİLTRE KAHVE Tarih": "10/07/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ],
+  "OTEL TRF. MUTFAK": [
+    {
+      "ÇAY Miktarı": "1 Kilo",
+      "ÇAY Tarih": "05/07/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/07/2025",
+      "FİLTRE KAHVE Miktarı": "1 Paket",
+      "FİLTRE KAHVE Tarih": "05/08/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/16/2025",
+      "ÇEKİRDEK KAHVE Miktarı": "1 Paket",
+      "ÇEKİRDEK KAHVE Tarih": "05/12/2025"
+    },
+    {
+      "ÇAY Miktarı": "1 kilo",
+      "ÇAY Tarih": "07/24/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/14/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/09/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": "1 Paket",
+      "ÇEKİRDEK KAHVE Tarih": "06/14/2025"
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "09/19/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/21/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/16/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": "2 Paket",
+      "ÇEKİRDEK KAHVE Tarih": "06/21/2025"
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "08/05/2025",
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "06/25/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": "2 Paket",
+      "ÇEKİRDEK KAHVE Tarih": "07/23/2025"
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "1 Kutu",
+      "TÜRK KAHVESİ Tarih": "10/13/2025",
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "07/24/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": "2 Paket",
+      "ÇEKİRDEK KAHVE Tarih": "09/11/2025"
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "08/05/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": "3 Paket",
+      "ÇEKİRDEK KAHVE Tarih": "10/13/2025"
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "08/08/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": null,
+      "ÇEKİRDEK KAHVE Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "09/19/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": null,
+      "ÇEKİRDEK KAHVE Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "9 paket",
+      "FİLTRE KAHVE Tarih": "10/07/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null,
+      "ÇEKİRDEK KAHVE Miktarı": null,
+      "ÇEKİRDEK KAHVE Tarih": null
+    }
+  ],
+  "KONUT TRF. MUTFAK": [
+    {
+      "ÇAY Miktarı": "1 kilo",
+      "ÇAY Tarih": "07/24/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/19/2025",
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "06/25/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/30/2025"
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "07/22/2025",
+      "FİLTRE KAHVE Miktarı": "3 paket",
+      "FİLTRE KAHVE Tarih": "07/24/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "07/24/2025",
+      "FİLTRE KAHVE Miktarı": "5 paket",
+      "FİLTRE KAHVE Tarih": "08/20/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": "2 kutu",
+      "TÜRK KAHVESİ Tarih": "10/20/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ],
+  "CHUBB": [
+    {
+      "ÇAY Miktarı": "10 kilo",
+      "ÇAY Tarih": "05/26/2025",
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/09/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/16/2025"
+    },
+    {
+      "ÇAY Miktarı": "4 Kilo",
+      "ÇAY Tarih": "08/05/2025",
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "6 kilo",
+      "ÇAY Tarih": "08/20/2025",
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "6 kilo",
+      "ÇAY Tarih": "10/01/2025",
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ],
+  "FİGO FİNANS": [
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "05/07/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/07/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/30/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "05/15/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/15/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "08/05/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "06/16/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/26/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "10/10/2025"
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "07/21/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/03/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "1 Kilo",
+      "ÇAY Tarih": "08/14/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/16/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "3 kilo",
+      "ÇAY Tarih": "08/20/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/23/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "3 Kilo",
+      "ÇAY Tarih": "09/11/2025",
+      "TÜRK KAHVESİ Miktarı": "4 Kutu",
+      "TÜRK KAHVESİ Tarih": "08/05/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "4 kilo",
+      "ÇAY Tarih": "09/24/2025",
+      "TÜRK KAHVESİ Miktarı": "3 kutu",
+      "TÜRK KAHVESİ Tarih": "08/20/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "3 kilo",
+      "ÇAY Tarih": "10/01/2025",
+      "TÜRK KAHVESİ Miktarı": "4 Kutu",
+      "TÜRK KAHVESİ Tarih": "09/11/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "3 Kilo",
+      "ÇAY Tarih": "10/10/2025",
+      "TÜRK KAHVESİ Miktarı": "4 Kutu",
+      "TÜRK KAHVESİ Tarih": "10/10/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ],
+  "TEKYAZ": [
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "05/07/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/07/2025",
+      "FİLTRE KAHVE Miktarı": "2 Paket",
+      "FİLTRE KAHVE Tarih": "05/09/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/16/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "05/14/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/14/2025",
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "05/14/2025",
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "09/24/2025"
+    },
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "06/20/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/27/2025",
+      "FİLTRE KAHVE Miktarı": "3 Paket",
+      "FİLTRE KAHVE Tarih": "05/21/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "2 kilo",
+      "ÇAY Tarih": "07/24/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/11/2025",
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "05/27/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "08/01/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/20/2025",
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "06/16/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "08/12/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/27/2025",
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "06/24/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "08/20/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "08/12/2025",
+      "FİLTRE KAHVE Miktarı": "5 Paket",
+      "FİLTRE KAHVE Tarih": "08/12/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "3 Kilo",
+      "ÇAY Tarih": "09/24/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "08/20/2025",
+      "FİLTRE KAHVE Miktarı": "6 paket",
+      "FİLTRE KAHVE Tarih": "08/20/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "10/10/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "10/10/2025",
+      "FİLTRE KAHVE Miktarı": "1 paket",
+      "FİLTRE KAHVE Tarih": "09/29/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": null,
+      "ÇAY Tarih": null,
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": "5 paket",
+      "FİLTRE KAHVE Tarih": "10/07/2025",
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ],
+  "RADORE": [
+    {
+      "ÇAY Miktarı": "5 Kilo",
+      "ÇAY Tarih": "05/14/2025",
+      "TÜRK KAHVESİ Miktarı": "2 Kutu",
+      "TÜRK KAHVESİ Tarih": "05/07/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "05/16/2025"
+    },
+    {
+      "ÇAY Miktarı": "3 kilo",
+      "ÇAY Tarih": "08/20/2025",
+      "TÜRK KAHVESİ Miktarı": "3 Kutu",
+      "TÜRK KAHVESİ Tarih": "06/27/2025",
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": "1 Paket",
+      "ŞEKER Tarih": "08/05/2025"
+    },
+    {
+      "ÇAY Miktarı": "3 kilo",
+      "ÇAY Tarih": "09/30/2025",
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVE Miktarı": null,
+      "FİLTRE KAHVE Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    },
+    {
+      "ÇAY Miktarı": "2 Kilo",
+      "ÇAY Tarih": "10/10/2025",
+      "TÜRK KAHVESİ Miktarı": null,
+      "TÜRK KAHVESİ Tarih": null,
+      "FİLTRE KAHVESİ Miktarı": null,
+      "FİLTRE KAHVESİ Tarih": null,
+      "ŞEKER Miktarı": null,
+      "ŞEKER Tarih": null
+    }
+  ]
+}
